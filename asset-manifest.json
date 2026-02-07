@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Polytechnic-Schedule/static/css/main.cd0ba45e.css",
+    "main.js": "/Polytechnic-Schedule/static/js/main.52a0fd5e.js",
+    "static/js/453.27769025.chunk.js": "/Polytechnic-Schedule/static/js/453.27769025.chunk.js",
+    "index.html": "/Polytechnic-Schedule/index.html",
+    "main.cd0ba45e.css.map": "/Polytechnic-Schedule/static/css/main.cd0ba45e.css.map",
+    "main.52a0fd5e.js.map": "/Polytechnic-Schedule/static/js/main.52a0fd5e.js.map",
+    "453.27769025.chunk.js.map": "/Polytechnic-Schedule/static/js/453.27769025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0ba45e.css",
+    "static/js/main.52a0fd5e.js"
+  ]
+}
